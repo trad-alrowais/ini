@@ -1,4 +1,4 @@
-
+cache = ${HOME}/.npm-packages
 An INI format parser & serializer.
 
 ## Note
